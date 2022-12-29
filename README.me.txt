@@ -1,0 +1,1 @@
+In the first stage, the scenario of the program was placed.
